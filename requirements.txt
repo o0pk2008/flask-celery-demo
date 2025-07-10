@@ -1,0 +1,7 @@
+Flask
+celery
+redis
+flower 
+SQLAlchemy
+psycopg2-binary
+Flask-SQLAlchemy
